@@ -1,0 +1,11 @@
+{
+    "ghAccount": "hqkhanhdev",
+    "latest": "v1",
+    "plugin": "plugin.demo",
+    "publisherId": "hqk",
+    "supported": {
+        "2020.3569": [
+            "android"
+        ]
+    }
+}
